@@ -1,66 +1,72 @@
-<h1 align="center">Hi, I'm Sahil Sharma 👾</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1500&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+MERN+Stack;UI%2FUX+%7C+Designer+%7C+Creator;Learning+AI%2FML+%26+Python;Building+cool+products+every+day+🚀" />
-</p>
+# Sahil Sharma — Software Developer ⚙️🚀
 
----
-
-## 🚀 About Me  
-- 🎓 Final-year Computer Science Engineer  
-- 💻 Full-stack dev focused on **Next.js + MongoDB**  
-- 🎨 UI/UX designer (Figma) + content creator  
-- 🤖 Learning **Python + AI/ML + VS Code extensions**  
-- 🧵 Building a minimal meme-based premium T-shirt brand  
-- 🎯 Goal: Launch scalable products + strong backend mastery  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Software+Developer;Full+Stack+Engineering;Systems+%26+Backend+Architecture;AI+%26+ML+Learner;Product+Builder+%7C+Tool+Maker;Always+Building+Something+Impactful+🚀" />
 
 ---
 
-## 🛠️ Tech Stack  
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,js,ts" />
-</p>
-
-### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### **Tools & Other Skills**
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,python" />
-</p>
+## 🧑‍💻 Who I Am  
+Computer Science Engineer (Final Year)  
+Software developer interested in **backend systems, automation tools, AI, dev-productivity**  
+Experience with **full-stack apps, auth systems, API design, scalable DBs**  
+Currently learning **Python, AI/ML, system design, and VS Code extension development**  
+I build:  
+• Productivity tools  
+• Multi-tenant dashboards  
+• AI-powered apps  
+• Backend architectures  
+• Developer extensions and utilities  
 
 ---
 
-## 🧩 What I’m Learning Now
-- Python from basics  
-- AI/ML fundamentals  
-- VS Code extension development  
-- Complex backend architecture (Auth, DB, WebSockets, Multi-tenant systems)  
+## 🧠 Core Skills (Software Developer Profile)
+
+### ⚙️ Programming Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
+
+### 🖥 Backend & Systems
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+
+### 🧩 Full-Stack & Application
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
+
+### 🔧 Tools & Engineering
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,docker" />
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilUsername&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilUsername&show_icons=true&theme=tokyonight" />
-</p>
+## 📚 Currently Learning  
+Python (deep dive)  
+AI/ML fundamentals  
+VS Code extension development  
+Software architecture & system design  
+DevOps basics  
 
 ---
 
-## ✨ Fun Stuff  
-### 🎞️ My Developer Vibe
-<img src="https://i.imgur.com/5QeU1QZ.gif" width="600" />
+## 🛠 Projects I Love Working On  
+Complex backend APIs  
+Multi-tenant platforms  
+Real-time dashboards  
+Automation bots  
+Developer tools  
+AI-powered productivity apps  
 
 ---
 
-## 📬 Connect With Me  
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</p>
+## 📈 GitHub Stats  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilUSERNAME&theme=tokyonight" />
+
+---
+
+## 🎯 Developer Philosophy  
+**Build fast. Build clean. Build things that make life easier.**
+
+---
+
+## 📬 Connect  
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+
+</div>
