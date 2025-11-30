@@ -12,7 +12,7 @@
 
 ## 🛠 Skills & Tools
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,nodejs,express,mongodb,postgres,nextjs,react,tailwind,vscode,git,github,figma,docker" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,nodejs,express,mongodb,supabase,firebase,nextjs,react,tailwind,vscode,git,github,gitlab,figma,docker,linux" />
 
 ---
 
