@@ -28,13 +28,6 @@ Always **learning**, always **coding**. 💻
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=sahil-sharma-dev&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-sharma-dev&layout=compact&theme=tokyonight" />
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/sahil-sharma-dev](https://www.linkedin.com/in/sahil-sharma-822a752a9/)) 
